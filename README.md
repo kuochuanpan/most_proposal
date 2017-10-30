@@ -2,6 +2,10 @@
 
 台灣科技部企劃書（表 CM03）的 latex 模板。
 
+## Example
+
+See `./example/template.pdf`
+
 ## Required latex packages
 
 * CJKutf8
