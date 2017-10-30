@@ -4,7 +4,7 @@
 
 ## Example
 
-See `./example/template.pdf`
+See `./example/most_proposal.pdf`
 
 ## Required latex packages
 
